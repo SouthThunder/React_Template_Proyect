@@ -5,3 +5,4 @@
 - Using RESTful API principles
 - Database connection with MYSQL
 - The frontend-side Deploy with JSX
+- TailWindCss intertwined with base structure
